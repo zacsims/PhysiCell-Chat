@@ -1,0 +1,4 @@
+name: llm
+channels:
+  - defaults
+prefix: /home/groups/ChangLab/simsz/conda/envs/llm
