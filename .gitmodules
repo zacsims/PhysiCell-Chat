@@ -1,0 +1,3 @@
+[submodule "paper-qa"]
+	path = paper-qa
+	url = git@github.com:Future-House/paper-qa.git
